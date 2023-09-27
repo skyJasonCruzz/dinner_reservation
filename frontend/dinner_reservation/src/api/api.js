@@ -1,3 +1,4 @@
+// Since I did not include an env, I hardcoded the server url
 export const createReservation = async (reservation) => {
     const response = await fetch(`http://localhost:8000/reservation/create`, {
         method: 'POST',
