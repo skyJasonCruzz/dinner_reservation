@@ -9,7 +9,7 @@
 
 This application allows users to create, update, and cancel their dinner reservation. They can as well view other reservations.
 
-Since this do not have a authentication, I used the first name, last name, and phone number as a unique identifier for each user. This is not the best way to do it, but it is the easiest way to do it without authentication.
+Since this do not have an authentication, I used the first name, last name, and phone number as a unique identifier for each user. This is not the best way to do it, but it is the easiest way to do it without authentication.
 
 **This app includes the following validations**
 
